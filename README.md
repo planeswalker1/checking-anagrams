@@ -64,8 +64,9 @@ We must delete 4 characters to make both strings anagrams, so we print 4 on a ne
 ## Setup/Installation Requirements
 
 * _Clone repository_
-* _Navigate to the cloned repository in terminal_
-* _open web browser of choice and go to localhost:4000 to see website_
+* _Navigate to the cloned repository_
+* _open main.js with code editor of choice to see solution_
+
 
 ## Known Bugs
 
