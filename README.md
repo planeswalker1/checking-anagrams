@@ -1,6 +1,6 @@
-# _making-anagrams_
+# checking-anagrams_
 
-#### _string manipulation programming challenge, 11.24.2018_
+#### _string manipulation programming challenge, 11.25.2018_
 
 #### By _**planeswalker1**_
 
@@ -65,12 +65,12 @@ We must delete 4 characters to make both strings anagrams, so we print 4 on a ne
 
 * _Clone repository_
 * _Navigate to the cloned repository_
-* _open main.js with code editor of choice to see solution_
+* _open main.js with code editor of choice to see my solution_
 
 
 ## Known Bugs
 
-_I don't think there are any bugs_
+_If either string contain multiple letters of the same type, the function will not output the expected value_
 
 ## Support and contact details
 
