@@ -1,6 +1,6 @@
 # checking-anagrams_
 
-#### _string manipulation programming challenge, 11.25.2018_
+#### _string manipulation programming challenge, 11.26.2018_
 
 #### By _**planeswalker1**_
 
@@ -70,7 +70,7 @@ We must delete 4 characters to make both strings anagrams, so we print 4 on a ne
 
 ## Known Bugs
 
-_If either string contain multiple letters of the same type, the function will not output the expected value_
+_I don't think there are any bugs_
 
 ## Support and contact details
 
